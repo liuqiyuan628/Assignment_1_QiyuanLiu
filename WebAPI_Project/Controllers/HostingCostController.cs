@@ -25,7 +25,7 @@ namespace WebAPI_Project.Controllers
                 Console.WriteLine($"Date for fortnight {i}: {startDate:D}");
             } // got this on https://stackoverflow.com/questions/35377602/calculate-14-days-sequence-order
             */
-
+            // need more help to complete this question.
         }
     }
 }
